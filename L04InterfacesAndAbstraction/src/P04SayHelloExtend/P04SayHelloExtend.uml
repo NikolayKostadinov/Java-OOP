@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>P04SayHelloExtend</OriginalElement>
+  <nodes>
+    <node x="162.0" y="302.0">P04SayHelloExtend.Chinese</node>
+    <node x="320.0" y="302.0">P04SayHelloExtend.Bulgarian</node>
+    <node x="0.0" y="302.0">P04SayHelloExtend.European</node>
+    <node x="149.5" y="128.0">P04SayHelloExtend.BasePerson</node>
+    <node x="160.0" y="0.0">P04SayHelloExtend.Person</node>
+    <node x="0.0" y="426.0">P04SayHelloExtend.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="P04SayHelloExtend.Bulgarian" target="P04SayHelloExtend.BasePerson" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.5" />
+      <point x="391.0" y="277.0" />
+      <point x="231.0" y="277.0" />
+      <point x="0.0" y="62.0" />
+    </edge>
+    <edge source="P04SayHelloExtend.BasePerson" target="P04SayHelloExtend.Person" relationship="REALIZATION">
+      <point x="0.0" y="-62.0" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="P04SayHelloExtend.Chinese" target="P04SayHelloExtend.BasePerson" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.5" />
+      <point x="0.0" y="62.0" />
+    </edge>
+    <edge source="P04SayHelloExtend.European" target="P04SayHelloExtend.BasePerson" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.5" />
+      <point x="71.0" y="277.0" />
+      <point x="231.0" y="277.0" />
+      <point x="0.0" y="62.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="231.0" y="263.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>P02CarShopExtend</OriginalElement>
+  <nodes>
+    <node x="75.5" y="162.0">P02CarShopExtend.Audi</node>
+    <node x="0.0" y="81.0">P02CarShopExtend.Rentable</node>
+    <node x="128.0" y="81.0">P02CarShopExtend.CarImpl</node>
+    <node x="142.5" y="0.0">P02CarShopExtend.Car</node>
+    <node x="199.5" y="162.0">P02CarShopExtend.Seat</node>
+    <node x="250.0" y="81.0">P02CarShopExtend.Sellable</node>
+    <node x="0.0" y="238.0">P02CarShopExtend.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="P02CarShopExtend.Seat" target="P02CarShopExtend.Sellable" relationship="REALIZATION">
+      <point x="20.0" y="-15.5" />
+      <point x="259.5" y="137.0" />
+      <point x="300.0" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="P02CarShopExtend.Seat" target="P02CarShopExtend.CarImpl" relationship="GENERALIZATION">
+      <point x="-20.0" y="-15.5" />
+      <point x="219.5" y="137.0" />
+      <point x="179.0" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="P02CarShopExtend.Audi" target="P02CarShopExtend.CarImpl" relationship="GENERALIZATION">
+      <point x="20.5" y="-15.5" />
+      <point x="137.0" y="137.0" />
+      <point x="179.0" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="P02CarShopExtend.Audi" target="P02CarShopExtend.Rentable" relationship="REALIZATION">
+      <point x="-20.5" y="-15.5" />
+      <point x="96.0" y="137.0" />
+      <point x="54.0" y="137.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="P02CarShopExtend.CarImpl" target="P02CarShopExtend.Car" relationship="REALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="175.0" y="134.5" />
+  <SelectedNodes>
+    <node>P02CarShopExtend.Car</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

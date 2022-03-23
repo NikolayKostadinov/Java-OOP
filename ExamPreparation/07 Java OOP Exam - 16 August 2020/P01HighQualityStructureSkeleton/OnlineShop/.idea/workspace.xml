@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e0dc91a-b0fe-410b-88fa-625142bd7468" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/01. High Quality Structure_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/01. High Quality Structure_Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/common/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/common/ConstantMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/common/ExceptionMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/core/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/core/EngineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/entities/cat/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/entities/houses/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/entities/toys/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp/src/main/java/catHouse/repositories/Repository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5krtKxL8BIssGOApVw16oYx4q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../FinalExam/P01HighQualityStructure/CatHouseApp" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlineShop.Main" />
+      <module name="OnlineShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlineShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e0dc91a-b0fe-410b-88fa-625142bd7468" name="Default Changelist" comment="" />
+      <created>1597412042837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597412042837</updated>
+      <workItem from="1597412043901" duration="33000" />
+      <workItem from="1597504849034" duration="628000" />
+      <workItem from="1638626896048" duration="7918000" />
+      <workItem from="1638693296658" duration="13763000" />
+      <workItem from="1639151383025" duration="11000" />
+      <workItem from="1639205356920" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
